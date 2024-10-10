@@ -1946,3 +1946,13 @@
 30878	31160	0	D:/ST/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c0f382097c2336a4
 87	-1245325055	0	CMakeFiles/confserver	6c7e5598b2237129
 87	-1245325055	0	D:/ST/tcp/build/CMakeFiles/confserver	6c7e5598b2237129
+718	1013	0	esp-idf/esptool_py/CMakeFiles/app_check_size	c0f382097c2336a4
+718	1013	0	D:/ST/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c0f382097c2336a4
+708	1049	7496454060008896	bootloader-prefix/src/bootloader-stamp/bootloader-build	9bfbb1fbbbfdcb22
+708	1049	7496454060008896	bootloader/bootloader.elf	9bfbb1fbbbfdcb22
+708	1049	7496454060008896	bootloader/bootloader.bin	9bfbb1fbbbfdcb22
+708	1049	7496454060008896	bootloader/bootloader.map	9bfbb1fbbbfdcb22
+708	1049	7496454060008896	D:/ST/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	9bfbb1fbbbfdcb22
+708	1049	7496454060008896	D:/ST/tcp/build/bootloader/bootloader.elf	9bfbb1fbbbfdcb22
+708	1049	7496454060008896	D:/ST/tcp/build/bootloader/bootloader.bin	9bfbb1fbbbfdcb22
+708	1049	7496454060008896	D:/ST/tcp/build/bootloader/bootloader.map	9bfbb1fbbbfdcb22
