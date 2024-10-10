@@ -1944,3 +1944,5 @@
 29957	30877	7496491054358889	D:/ST/tcp/build/.bin_timestamp	a98253619d1fb266
 30878	31160	0	esp-idf/esptool_py/CMakeFiles/app_check_size	c0f382097c2336a4
 30878	31160	0	D:/ST/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c0f382097c2336a4
+87	-1245325055	0	CMakeFiles/confserver	6c7e5598b2237129
+87	-1245325055	0	D:/ST/tcp/build/CMakeFiles/confserver	6c7e5598b2237129
