@@ -1,3 +1,14 @@
 dependencies:
   protocol_examples_common:
     path: ${IDF_PATH}/examples/common_components/protocol_examples_common
+  espressif/esp_wifi_remote:
+    version: ">=0.1.12"
+    rules:
+      - if: "target in [esp32p4, esp32h2]"
+  LED:
+    git: https://github.com/koson/LED_Test.git
+    path: components/LED
+  SEVENSEGMENT:
+    git: https://github.com/koson/sevenseg_component.git
+    path: components/SevenSegment 
+    version: 57dca1419ad633cefb7d1f9ef2871cc222f5c3ed
